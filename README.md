@@ -9,16 +9,10 @@
 
 # Daftar Perintah Git
   1. git clone
-  2. git init
-  3. git add
-  4. git commit
-  5. git push
-  6. git pull
-  7. git branch
-  8. git checkout
-  9. git merge
-  10. git fetch
-  11. git status
-  12. git log
-  13. git remote
-  14. git config
+  2. git checkout -b
+  3. echo. > Tugas-Git.txt
+  4. type nul > Tugas-Git.txt
+  5. notepad Tugas-Git.txt
+  6. git add Tugas-Git.txt
+  7. git commit -m "Menambahkan isi ke file Tugas-Git.txt"
+  8. git push origin main
